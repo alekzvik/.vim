@@ -39,6 +39,7 @@ let mapleader=" "
 
 syntax on
 set background=dark
+set nowrap
 set modeline
 set modelines=5
 set nofoldenable

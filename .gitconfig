@@ -1,6 +1,6 @@
 [user]
-	email = yvhn.yvhn@gmail.com
-	name = yvhn
+	email = alekzvik@gmail.com
+	name = Alex Vykaliuk
 [core]
 	editor = vim
 [push]
@@ -21,17 +21,17 @@
 [merge]
 	tool = vim
 [color]
-  ui = auto
+  	ui = auto
 [color "branch"]
-  current = blue
-  local = yellow
-  remote = green
+	current = blue
+	local = yellow
+	remote = green
 [color "diff"]
-  meta = blue
-  frag = magenta
-  old = red
-  new = green
+	meta = blue
+	frag = magenta
+	old = red
+	new = green
 [color "status"]
-  added = yellow
-  changed = green
-  untracked = red
+	added = yellow
+	changed = green
+	untracked = red

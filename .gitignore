@@ -1,0 +1,4 @@
+bundle/
+undos/
+viminfo
+plugin/autotag.pyc
